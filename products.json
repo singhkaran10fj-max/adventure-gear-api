@@ -1,0 +1,12 @@
+[
+{"id":"h1","name":"Trail Backpack 40L","price":149.0,"img":"https://picsum.photos/seed/h1/600/400","category":"Hiking","location":"Nausori Highlands","description":"Lightweight 40L pack with rain cover and hip belt."},
+{"id":"h2","name":"Trekking Poles (Pair)","price":79.0,"img":"https://picsum.photos/seed/h2/600/400","category":"Hiking","location":"Mount Tomanivi","description":"Adjustable aluminium poles with wrist straps."},
+{"id":"h3","name":"Men's Hiking Boots","price":189.0,"img":"https://picsum.photos/seed/h3/600/400","category":"Footwear","location":"Koroyanitu Heritage Park","description":"Waterproof boots with grippy soles.","sizes":[7,8,9,10,11]},
+{"id":"h4","name":"Women's Hiking Boots","price":179.0,"img":"https://picsum.photos/seed/h4/600/400","category":"Footwear","location":"Colo-i-Suva Forest Park","description":"Waterproof boots with grippy soles.","sizes":[5,6,7,8,9]},
+{"id":"h5","name":"Waterproof Rain Jacket","price":135.0,"img":"https://picsum.photos/seed/h5/600/400","category":"Hiking","location":"Koroyanitu Heritage Park","description":"Breathable shell for tropical downpours."},
+{"id":"c1","name":"2-Person Camping Tent","price":259.0,"img":"https://picsum.photos/seed/c1/600/400","category":"Camping","location":"Bouma Heritage Park","description":"Quick-pitch tent with mesh vents."},
+{"id":"c2","name":"Sleeping Bag","price":119.0,"img":"https://picsum.photos/seed/c2/600/400","category":"Camping","location":"Nausori Highlands","description":"Warm, compact, packs into a small sack."},
+{"id":"c3","name":"Portable Camp Stove","price":69.0,"img":"https://picsum.photos/seed/c3/600/400","category":"Camping","location":"Sigatoka Sand Dunes","description":"Foldable gas stove for trail cooking."},
+{"id":"a1","name":"Insulated Water Bottle 1L","price":39.0,"img":"https://picsum.photos/seed/a1/600/400","category":"Accessories","location":"Colo-i-Suva Forest Park","description":"Keeps drinks cold for 24 hours."},
+{"id":"a2","name":"LED Headlamp","price":45.0,"img":"https://picsum.photos/seed/a2/600/400","category":"Accessories","location":"Mount Tomanivi","description":"Rechargeable, 3 brightness modes."}
+]
