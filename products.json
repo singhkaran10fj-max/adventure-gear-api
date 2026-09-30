@@ -3,7 +3,7 @@
     "id": "h1",
     "name": "Trail Backpack 40L",
     "price": 149.0,
-    "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "img": "https://www.trekking-mont-blanc.com/wp-content/uploads/2020/09/couverture-1080x675-1-1080x675.jpg.webp",
     "category": "Hiking",
     "location": "Nausori Highlands",
     "description": "Lightweight 40L pack with rain cover and hip belt."
@@ -12,7 +12,7 @@
     "id": "h2",
     "name": "Trekking Poles (Pair)",
     "price": 79.0,
-    "img": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600",
+    "img": "https://alpkit.com/cdn/shop/articles/how-to-use-trekking-poles.jpg?v=1720108469&width=1296",
     "category": "Hiking",
     "location": "Mount Tomanivi",
     "description": "Adjustable aluminum trekking poles with cork grips."
@@ -41,7 +41,7 @@
     "id": "h5",
     "name": "Waterproof Rain Jacket",
     "price": 135.0,
-    "img": "https://images.unsplash.com/photo-1544441893-675973e31985?w=600",
+    "img": "https://ridgelineclothing.co.uk/cdn/shop/files/2T7A2075_1200px.jpg?v=1753693047&width=1200",
     "category": "Hiking",
     "location": "Koroyanitu Heritage Park",
     "description": "Breathable waterproof shell jacket with taped seams."
@@ -59,7 +59,7 @@
     "id": "c2",
     "name": "Sleeping Bag",
     "price": 119.0,
-    "img": "https://images.unsplash.com/photo-1523987355523-c7b5b0dd90a7?w=600",
+    "img": "https://cdn.thewirecutter.com/wp-content/media/2026/02/BEST-KIDS-SLEEPING-BAGS-2048px-08682-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
     "category": "Camping",
     "location": "Nausori Highlands",
     "description": "Lightweight rectangular sleeping bag rated down to 10°C."
@@ -68,7 +68,7 @@
     "id": "c3",
     "name": "Portable Camp Stove",
     "price": 69.0,
-    "img": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?w=600",
+    "img": "https://bettertrail.com/image/cooking-at-sunset-on-biolite-campstove-2?hash=%2F4f8b939880f042eb9b2ddfa09a361cf0%2F5bbe9a0eb79d479492c592b487f7d8af&width=768&quality=70&format=auto&fit=scale-down",
     "category": "Camping",
     "location": "Sigatoka Sand Dunes",
     "description": "Compact gas canister stove with piezo ignition."
@@ -86,7 +86,7 @@
     "id": "a2",
     "name": "LED Headlamp",
     "price": 45.0,
-    "img": "https://images.unsplash.com/photo-1508873696983-2df5c92091c7?w=600",
+    "img": "https://m.media-amazon.com/images/I/81roLUmD2YL._AC_SX522_.jpg",
     "category": "Accessories",
     "location": "Mount Tomanivi",
     "description": "Rechargeable 300-lumen headlamp with red night vision."
